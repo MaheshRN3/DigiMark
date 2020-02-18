@@ -5,7 +5,7 @@ import threading
 import time
 from pytz import timezone
 bot = Bot()
-bot.login(username="_compiler._", password="mahesh407")
+bot.login(username="_compiler._", password="******")
 def foo1():
     if int((datetime.now().astimezone(timezone('Asia/Kolkata'))).strftime("%M"))==00:#check for minute is equals 00 or not. 
         account=bot.get_user_info(bot.user_id)
