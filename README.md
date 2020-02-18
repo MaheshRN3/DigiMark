@@ -1,5 +1,6 @@
 # DigiMark
 Digital Marketing With Social Media
+
 1.Account Status:
   Check account information every 1 hour and stored data into csv file. 
   1.	Timestamp while fetching data.
